@@ -1,0 +1,9 @@
+name=ServoCMT
+version=1.0.0
+author=Cristobal
+maintainer=Cristobal
+sentence=Control simplificado de servos en ESP32 con ángulos.
+paragraph=Interpreta ángulos como pulsos PWM entre 450 y 2550 µs. Ideal para servos reciclados y proyectos maker.
+category=Device Control
+url=https://github.com/tuusuario/ServoCMT
+architectures=esp32
